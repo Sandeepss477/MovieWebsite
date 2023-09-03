@@ -1,0 +1,107 @@
+
+
+    img{
+        max-width: 30%;
+        max-height: 40%
+        }
+
+.container{
+    font-family:Cursive;
+}
+
+p2{
+    font-family:Cursive;
+    font-size: 90px;
+    color: white;
+    text-decoration-line: underline;
+}
+
+p1{
+    font-family:Cursive;
+    font-size: 40px;
+}
+
+.nav{
+    height: 90px;
+    font-size: 20px;
+}
+
+
+
+.movies-grid{
+    color: white;
+}
+h2{
+    color: white;
+}
+
+#ucm{
+    color: white;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:larger;
+}
+
+.nav{
+ text-indent: 100px;
+ position:absolute;
+ top: 19px;
+ font-size: 40px;
+ font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: url(image/pic.jpeg);
+    background-size: cover;
+}
+    
+.topnav input[type=text]{
+    float: right;
+    font-size: 55px;
+    position:absolute;
+    top: 10px;
+    right: 80px;
+    padding: 10px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 20px;
+}
+
+#lab_social_icon_footer {
+    padding: 200px ;
+    background-color: #dedede;
+  }
+  
+  #lab_social_icon_footer a {
+    color: #333;
+  }
+  
+
+
+
+  
+  #lab_social_icon_footer #social-fb:hover {
+    color: #3B5998;
+  }
+  
+  #lab_social_icon_footer #social-tw:hover {
+    color: #4099FF;
+  }
+  
+  #lab_social_icon_footer #social-gp:hover {
+    color: #d34836;
+  }
+  
+  #lab_social_icon_footer #social-em:hover {
+    color: #f39c12;
+  }
+
+  .row__posters {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+  }
+
+
